@@ -17,4 +17,4 @@ Through various iterations of tuning different hyperparameters, the team finaliz
 Overall, the final model is ready and can be used in the backend of a bank system to better combat fraud. The AdaBoost model outperformed current state-of-the-art models as expected with respect to false positives. The team does understand that the testing and verification could have accounted for other variations of the AdaBoost model which use different estimators which could lead to better results. Future adaptations of this project can be to develop this model to assist fraud in other financial sectors such as insurance or loans.
 
 **Capstone Poster**
-![alt text]("https://github.com/shadman-kaif/Ensemble-Learning-Fraud-Detection/blob/main/Poster_picture.png")
+![alt text]("https://github.com/shadman-kaif/Ensemble-Learning-Fraud-Detection/blob/main/Poster_picture.png?raw=true")
