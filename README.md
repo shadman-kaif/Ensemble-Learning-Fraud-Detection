@@ -6,6 +6,8 @@ Group Members: Shadman Kaif, Abdurrafay Khan, Krutarth Patel, Shanthosh Sivayoga
 
 Dataset: https://ibm.ent.box.com/v/tabformer-data
 
+Jupyter NoteBook: https://colab.research.google.com/drive/1cFuWxXnedLeS2C8CzxIxLOFwYjstIrdU?usp=sharing
+
 **Capstone Poster**
 <img src="https://github.com/shadman-kaif/Ensemble-Learning-Fraud-Detection/blob/main/Poster_picture.png">
 
